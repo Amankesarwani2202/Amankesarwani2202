@@ -26,7 +26,7 @@ I love whatever I do...and also I do whatever I love...💜
 <a href="https://github.com/Amankesarwani2202">
   <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/AmanKesarwani">
+<a href="https://t.me/aman_kesarwani">
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/aman_0fficial/">
