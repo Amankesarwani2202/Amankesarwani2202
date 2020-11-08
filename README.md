@@ -8,7 +8,7 @@ I'm a quick and passionate learner.I always passionate about understanding the c
 I think no matter how hard the past is, you can always begin again...
 and I believe every day is a chance to begin again.
 I love whatever I do...and also I do whatever I love...💜
-###Connect with me
+<h3>Connect with me</h3>
 <a href="https://twitter.com/aman_0fficial">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
