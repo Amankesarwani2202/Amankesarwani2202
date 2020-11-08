@@ -8,8 +8,28 @@ I'm a quick and passionate learner.I always passionate about understanding the c
 I think no matter how hard the past is, you can always begin again...
 and I believe every day is a chance to begin again.
 I love whatever I do...and also I do whatever I love...💜
-
-
+###Connect with me
+<a href="https://twitter.com/aman_0fficial">
+  <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/~amankesarwani">
+  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Amankesarwani2202">
+  <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/AmanKesarwani">
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/aman_0fficial/">
+  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/aman0fficial">
+  <img align="left" alt="Aman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://bit.ly/TalkWithAman">
+  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 - 🔭 I’m currently working on ... Self
 - 🌱 I’m currently learning to manage my time and be productive.
@@ -55,6 +75,7 @@ As we all know that under engineering, technical skills always provide unique gr
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+916393308725) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <div align="center">
 <a href="<div align="center">
+                            
 <a href="https://github.com/Amankesarwani2202" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
