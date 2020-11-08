@@ -38,6 +38,7 @@ I love whatever I do...and also I do whatever I love...💜
 <a href="https://bit.ly/TalkWithAman">
   <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<br>
 
 
 ## Technical Skills 🛠 
