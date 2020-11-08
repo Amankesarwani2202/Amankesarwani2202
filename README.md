@@ -12,7 +12,7 @@ I love whatever I do...and also I do whatever I love...💜
 - 🔭 I’m currently working on ... Self
 - 🌱 I’m currently learning to manage my time and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
-- 💬 Ask me about ...Anythig
+- 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 
 
