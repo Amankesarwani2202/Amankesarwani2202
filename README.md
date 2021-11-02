@@ -35,7 +35,7 @@ I love whatever I do...and also I do whatever I love...💜
 <a href="https://www.facebook.com/aman0fficial">
   <img align="left" alt="Aman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://bit.ly/TalkWithAman">
+<a href="https://tinyurl.com/LGMYOUTUBE">
   <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br>
