@@ -2,9 +2,7 @@
 
 
 ## About Me ✍
-I'm Aman Kesarwani pursuing Information Techonology Engineering.
-I'm also passionate in learning Data Science.
-I'm a quick and passionate learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
+I always passionate about understanding the core concepts behind different popular Technological Fields.
 I think no matter how hard the past is, you can always begin again...
 and I believe every day is a chance to begin again.
 I love whatever I do...and also I do whatever I love...💜
