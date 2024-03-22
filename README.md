@@ -50,8 +50,7 @@ Here are some of the tools and technologies I work with:
 ## Technical Skills 🛠 
 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
-As we all know that under engineering, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time.
-
+For a DevOps Engineer, technical skills serve as the cornerstone of expertise, fostering an enduring sense of fulfillment and zeal. These competencies are not just tools but constant companions, guiding and empowering the engineer through every endeavor.
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
