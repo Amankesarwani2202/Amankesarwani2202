@@ -1,10 +1,10 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://linkedin.com/in/~amankesarwani">Aman Kesarwani</a>
 
-I'm a passionate DevOps Engineer with a love for exploring and understanding the core concepts behind different popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
+I'm a passionate Cloud & DevOps Engineer with a love for exploring and understanding the core concepts behind different popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
 
 ## About Me ✍
 
-- 🔭 I’m currently working as a DevOps Engineer, shaping digital landscapes and facilitating seamless development and deployment processes.
+- 🔭 I’m currently working as a Cloud & DevOps Engineer, shaping digital landscapes and facilitating seamless development and deployment processes.
 - 🌱 I’m currently on a journey to master time management and boost productivity to new heights.
 - 👯 I’m always open to collaborating on innovative ideas that excite and inspire me.
 - 💬 Feel free to ask me about anything related to DevOps, technology, or productivity!
