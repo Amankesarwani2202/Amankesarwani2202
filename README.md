@@ -7,7 +7,7 @@ I'm a passionate Cloud & DevOps Engineer with a love for exploring and understan
 - 🔭 I’m currently working as a Cloud & DevOps Engineer, shaping digital landscapes and facilitating seamless development and deployment processes.
 - 🌱 I’m currently on a journey to master time management and boost productivity to new heights.
 - 👯 I’m always open to collaborating on innovative ideas that excite and inspire me.
-- 💬 Feel free to ask me about anything related to DevOps, technology, or productivity!
+- 💬 Feel free to ask me about anything related to Cloud, DevOps, technology, or productivity!
 - 😄 Pronouns: He/Him
 
 ## My Toolbox 🧰
